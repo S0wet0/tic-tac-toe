@@ -30,15 +30,14 @@ tic-tac-toe/
 ## 🔧 Local Development
 
 1. Clone the repository:
-``bash
 git clone https://github.com/S0wet0/tic-tac-toe.git
 
 2. Navigate to the project directory:
-``bash
 cd tic-tac-toe
 
 3. Open index.html in your browser
 
 👤 Author
 S0wet0
+
 GitHub: @S0wet0
